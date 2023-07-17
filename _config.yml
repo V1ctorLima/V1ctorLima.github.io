@@ -18,12 +18,12 @@ timezone:
 # jekyll-seo-tag settings › https://github.com/jekyll/jekyll-seo-tag/blob/master/docs/usage.md
 # ↓ --------------------------
 
-title: VictorLima # the main title
+title: Victor Lima # the main title
 
-tagline: A text-focused Jekyll theme # it will display as the sub-title
+tagline: Another security n00b  # it will display as the sub-title
 
 description: >- # used by seo meta and the atom feed
-  A minimal, responsive and feature-rich Jekyll theme for technical writing.
+  Working as a Blue Team Security Engineer, like to code python and bash, play CTF's. In my spare time I am a professional speedrunner player. 
 
 # fill in the protocol & hostname for your site, e.g., 'https://username.github.io'
 url: "https://v1ctorlima.github.io/"
@@ -73,7 +73,7 @@ theme_mode: dark
 # will be added to all image (site avatar & posts' images) paths starting with '/'
 #
 # e.g. 'https://cdn.com'
-img_cdn:
+img_cdn: https://avatars.githubusercontent.com/u/6186872?v=4
 
 # the avatar on sidebar, support local or CORS resources
 avatar:
