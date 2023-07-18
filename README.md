@@ -40,8 +40,8 @@
   <a href="https://www.linkedin.com/in/victorlimasec">
     <img alt="Linkedin Victor Lima" src="https://img.shields.io/badge/Victor_Lima-blue?&logo=Linkedin&logoColor=white&style=for-the-badge&link=https://www.linkedin.com/in/victorlimasec/" />
   </a>
-  <a href="mailto:vrlima75@gmail.com">
-    <img alt="Gmail vrlima75@gmail.com" src="https://img.shields.io/badge/vrlima75@gmail.com-006bed?&logo=Gmail&logoColor=white&style=for-the-badge&link=mailto:vrlima75@gmail.com" />
+  <a href="mailto:me@vlima.in">
+    <img alt="Gmail me@vlima.in" src="https://img.shields.io/badge/me@vlima.in-006bed?&logo=Gmail&logoColor=white&style=for-the-badge&link=mailto:me@vlima.in" />
   </a>
   <a href="https://github.com/V1ctorLima">
     <img alt="Github @V1ctorLima" src="https://img.shields.io/github/followers/V1ctorLima?label=follow&style=for-the-badge" />
