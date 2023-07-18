@@ -1,45 +1,49 @@
-# Chirpy Starter [![Gem Version](https://img.shields.io/gem/v/jekyll-theme-chirpy)](https://rubygems.org/gems/jekyll-theme-chirpy) [![GitHub license](https://img.shields.io/github/license/cotes2020/chirpy-starter.svg?color=blue)][mit]
+<h1 align="center">
+  Hello there, I'm Victor Lima! Welcome to my personal blog!
+  <img src="https://cultofthepartyparrot.com/parrots/hd/laptop_parrot.gif" height="30"/>
+</h1>
+<h3 align="center">
+  A Security Engineer from Brazil based in Germany <img src="https://emojis.slackmojis.com/emojis/images/1628955689/48630/meow_germany.png?1628955689" height="30"/>
+</h3>
 
-When installing the [**Chirpy**][chirpy] theme through [RubyGems.org][gem], Jekyll can only read files in the folders `/_data`, `/_layouts`, `/_includes`, `/_sass` and `/assets`, as well as a small part of options of the `/_config.yml` file from the theme's gem. If you have ever installed this theme gem, you can use the command `bundle info --path jekyll-theme-chirpy` to locate these files.
+<p align="center">
+</p>
 
-The Jekyll team claims that this is to leave the ball in the user’s court, but this also results in users not being able to enjoy the out-of-the-box experience when using feature-rich themes.
+<p>
+  I've been working with Security for all my carear, mostly focused on Blue Team stuff, with  experience in Detection Engineer, Incident Response, CloudSec, CorpSec and AppSec.
+</p>
+<p>
+  Aside my job, I have great interesting in the OffSec field, vulnerabity research and bug hunting.
+</p>
+<p>
+  Nowadays, I've been more focused in automate process of SOC and Threat Detection using python and bash and I'm studing ML and UEBA applied for Security Detection.
+</p>
 
-To fully use all the features of **Chirpy**, you need to copy the other critical files from the theme's gem to your Jekyll site. The following is a list of targets:
+<p align="center">
+  <img
+    src="https://github-readme-stats.vercel.app/api?username=V1ctorLima&theme=dracula&show_icons=true&hide_border=true"
+    height="160"
+  />
+  <img
+    src="https://github-readme-stats.vercel.app/api/top-langs/?username=V1ctorLima&hide=html&layout=compact&theme=dracula&hide_border=true"
+    height="160"
+  />
+</p>
 
-```shell
-.
-├── _config.yml
-├── _plugins
-├── _tabs
-└── index.html
-```
+<p align="center">
+  <a href="https://skillicons.dev">
+    <img src="https://skills.thijs.gg/icons?i=py,js,ts,react,nodejs,solidity,graphql,vscode,docker,kubernetes,aws,linux,gitlab&theme=dark" />
+  </a>
+</p>
 
-To save you time, and also in case you lose some files while copying, we extract those files/configurations of the latest version of the **Chirpy** theme and the [CD][CD] workflow to here, so that you can start writing in minutes.
-
-## Prerequisites
-
-Follow the instructions in the [Jekyll Docs](https://jekyllrb.com/docs/installation/) to complete the installation of the basic environment. [Git](https://git-scm.com/) also needs to be installed.
-
-## Installation
-
-Sign in to GitHub and [**use this template**][use-template] to generate a brand new repository and name it `USERNAME.github.io`, where `USERNAME` represents your GitHub username.
-
-Then clone it to your local machine and run:
-
-```
-$ bundle
-```
-
-## Usage
-
-Please see the [theme's docs](https://github.com/cotes2020/jekyll-theme-chirpy#documentation).
-
-## License
-
-This work is published under [MIT][mit] License.
-
-[gem]: https://rubygems.org/gems/jekyll-theme-chirpy
-[chirpy]: https://github.com/cotes2020/jekyll-theme-chirpy/
-[use-template]: https://github.com/cotes2020/chirpy-starter/generate
-[CD]: https://en.wikipedia.org/wiki/Continuous_deployment
-[mit]: https://github.com/cotes2020/chirpy-starter/blob/master/LICENSE
+<p align="center">
+  <a href="https://www.linkedin.com/in/victorlimasec">
+    <img alt="Linkedin Victor Lima" src="https://img.shields.io/badge/Victor_Lima-blue?&logo=Linkedin&logoColor=white&style=for-the-badge&link=https://www.linkedin.com/in/victorlimasec/" />
+  </a>
+  <a href="mailto:vrlima75@gmail.com">
+    <img alt="Gmail vrlima75@gmail.com" src="https://img.shields.io/badge/vrlima75@gmail.com-006bed?&logo=Gmail&logoColor=white&style=for-the-badge&link=mailto:vrlima75@gmail.com" />
+  </a>
+  <a href="https://github.com/V1ctorLima">
+    <img alt="Github @V1ctorLima" src="https://img.shields.io/github/followers/V1ctorLima?label=follow&style=for-the-badge" />
+  </a>
+</p>

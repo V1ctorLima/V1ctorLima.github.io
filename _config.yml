@@ -13,14 +13,14 @@ baseurl: ""
 lang: en
 
 # Change to your timezone › http://www.timezoneconverter.com/cgi-bin/findzone/findzone
-timezone:
+timezone: Germany/Berlin
 
 # jekyll-seo-tag settings › https://github.com/jekyll/jekyll-seo-tag/blob/master/docs/usage.md
 # ↓ --------------------------
 
 title: Victor Lima # the main title
 
-tagline: Another security n00b  # it will display as the sub-title
+tagline: Security Engineer | Another security n00b  # it will display as the sub-title
 
 description: >- # used by seo meta and the atom feed
   Working as a Blue Team Security Engineer, like to code python and bash, play CTF's. In my spare time I am a professional speedrunner player. 
@@ -66,7 +66,7 @@ google_analytics:
 #     light  - Use the light color scheme
 #     dark   - Use the dark color scheme
 #
-theme_mode: dark
+theme_mode: # [light|dark]
 
 # The CDN endpoint for images.
 # Notice that once it is assigned, the CDN url
