@@ -1,49 +1,43 @@
-<h1 align="center">
-  Hello there, I'm Victor Lima! Welcome to my personal blog!
-  <img src="https://cultofthepartyparrot.com/parrots/hd/laptop_parrot.gif" height="30"/>
-</h1>
-<h3 align="center">
-  A Security Engineer from Brazil based in Germany <img src="https://emojis.slackmojis.com/emojis/images/1628955689/48630/meow_germany.png?1628955689" height="30"/>
-</h3>
+# Chirpy Starter
 
-<p align="center">
-</p>
+[![Gem Version](https://img.shields.io/gem/v/jekyll-theme-chirpy)][gem]&nbsp;
+[![GitHub license](https://img.shields.io/github/license/cotes2020/chirpy-starter.svg?color=blue)][mit]
 
-<p>
-  I've been working with Security for all my carear, mostly focused on Blue Team stuff, with  experience in Detection Engineer, Incident Response, CloudSec, CorpSec and AppSec.
-</p>
-<p>
-  Aside my job, I have great interesting in the OffSec field, vulnerabity research and bug hunting.
-</p>
-<p>
-  Nowadays, I've been more focused in automate process of SOC and Threat Detection using python and bash and I'm studing ML and UEBA applied for Security Detection.
-</p>
+When installing the [**Chirpy**][chirpy] theme through [RubyGems.org][gem], Jekyll can only read files in the folders
+`_data`, `_layouts`, `_includes`, `_sass` and `assets`, as well as a small part of options of the `_config.yml` file
+from the theme's gem. If you have ever installed this theme gem, you can use the command
+`bundle info --path jekyll-theme-chirpy` to locate these files.
 
-<p align="center">
-  <img
-    src="https://github-readme-stats.vercel.app/api?username=V1ctorLima&theme=dracula&show_icons=true&hide_border=true"
-    height="160"
-  />
-  <img
-    src="https://github-readme-stats.vercel.app/api/top-langs/?username=V1ctorLima&hide=html&layout=compact&theme=dracula&hide_border=true"
-    height="160"
-  />
-</p>
+The Jekyll team claims that this is to leave the ball in the user’s court, but this also results in users not being
+able to enjoy the out-of-the-box experience when using feature-rich themes.
 
-<p align="center">
-  <a href="https://skillicons.dev">
-    <img src="https://skills.thijs.gg/icons?i=py,js,ts,react,nodejs,solidity,graphql,vscode,docker,kubernetes,aws,linux,gitlab&theme=dark" />
-  </a>
-</p>
+To fully use all the features of **Chirpy**, you need to copy the other critical files from the theme's gem to your
+Jekyll site. The following is a list of targets:
 
-<p align="center">
-  <a href="https://www.linkedin.com/in/victorlimasec">
-    <img alt="Linkedin Victor Lima" src="https://img.shields.io/badge/Victor_Lima-blue?&logo=Linkedin&logoColor=white&style=for-the-badge&link=https://www.linkedin.com/in/victorlimasec/" />
-  </a>
-  <a href="mailto:me@vlima.in">
-    <img alt="Gmail me@vlima.in" src="https://img.shields.io/badge/me@vlima.in-006bed?&logo=Gmail&logoColor=white&style=for-the-badge&link=mailto:me@vlima.in" />
-  </a>
-  <a href="https://github.com/V1ctorLima">
-    <img alt="Github @V1ctorLima" src="https://img.shields.io/github/followers/V1ctorLima?label=follow&style=for-the-badge" />
-  </a>
-</p>
+```shell
+.
+├── _config.yml
+├── _plugins
+├── _tabs
+└── index.html
+```
+
+To save you time, and also in case you lose some files while copying, we extract those files/configurations of the
+latest version of the **Chirpy** theme and the [CD][CD] workflow to here, so that you can start writing in minutes.
+
+## Usage
+
+Check out the [theme's docs](https://github.com/cotes2020/jekyll-theme-chirpy/wiki).
+
+## Contributing
+
+This repository is automatically updated with new releases from the theme repository. If you encounter any issues or want to contribute to its improvement, please visit the [theme repository][chirpy] to provide feedback.
+
+## License
+
+This work is published under [MIT][mit] License.
+
+[gem]: https://rubygems.org/gems/jekyll-theme-chirpy
+[chirpy]: https://github.com/cotes2020/jekyll-theme-chirpy/
+[CD]: https://en.wikipedia.org/wiki/Continuous_deployment
+[mit]: https://github.com/cotes2020/chirpy-starter/blob/master/LICENSE
